@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.footer-logo {
+    width: 10%;
+    height: 10%;
+    padding: 2%;
+}
+
+.footer-link{
+    color: white;
+    padding: 1%;
+    text-decoration: none;
+}
+a:hover{
+    color: #FFD700;
+}
+.footer-media{
+    width:6%;
+}
+.footer-media:hover{
+    width:7%;
+}
